@@ -24,4 +24,4 @@ const DisplayEntries = (props) => {
      );
 }
  
-export default DisplayEntries;props
+export default DisplayEntries;
